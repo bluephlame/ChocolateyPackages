@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>rightnow-compassion-tst</id>
+    <version>1.0.8</version>
+    <authors>JBoyd</authors>
+    <owners>JBoyd</owners>
+    <description>Installs Compassionau--tst RightNow onto the machine</description>
+    <tags>Boxstarter</tags>
+  </metadata>
+</package>
